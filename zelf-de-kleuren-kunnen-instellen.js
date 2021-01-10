@@ -7,7 +7,7 @@ for (var i = 1; i <= 30; i++) {
 	buttonsContainer.classList.add("buttonsContainer");
 };
 
-var colorChoice = ["",];
+var colorChoice = ["", "black"];
 var colorIndex  = 0;
 
 for (var i = 0; i < 3; i++) {
